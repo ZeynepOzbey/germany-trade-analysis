@@ -13,7 +13,7 @@ Almanya, Avrupa Birliği'nin en büyük, dünyanın ise dördüncü büyük ekon
 
 Almanya’nın dış ticaret hacmi 2005-2025 yılları arasında muazzam bir genişleme göstermiştir. 2005 yılında 1.015 milyar dolar olan toplam ihracat, nominal olarak yaklaşık %62,5 artarak 1.650 milyar dolar seviyesine ulaşmıştır.
 
-![Grafik 1](grafik1.png)
+![Grafik 1](Grafik1.png)
 *Kaynak: Dünya Bankası (World Bank) ve OECD Ulusal Hesaplar Veri Seti (2005-2025).*
 
 ### Kritik Kırılma Noktaları:
@@ -27,7 +27,7 @@ Almanya’nın dış ticaret hacmi 2005-2025 yılları arasında muazzam bir gen
 
 Almanya, analiz edilen 20 yılın tamamında kronik olarak **"Dış Ticaret Fazlası"** veren bir yapıya sahiptir. Ancak 2022 yılındaki Ukrayna-Rusya savaşı sonrasında meşhur ticaret fazlası 84 milyar dolara kadar gerilemiştir.
 
-![Grafik 2](grafik2.png)
+![Grafik 2](Grafik2.png)
 *Kaynak: Dünya Bankası ve OECD resmi verileri kullanılarak hesaplanmıştır.*
 
 ### Miktar vs. Fiyat Ayrımı (Kritik Ekonomik Yorum)
