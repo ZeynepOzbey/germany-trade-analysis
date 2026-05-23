@@ -40,3 +40,6 @@ Almanya ekonomisi yapısal olarak dış talebe ve yüksek katma değerli sanayi 
 
 ---
 **Veri Kaynakları:** Resmi istatistik portalları olan Dünya Bankası (World Bank) ve OECD veri tabanları kullanılmıştır.
+---
+## 📊 Proje Veri Seti
+Analizde kullanılan temizlenmiş ve düzenlenmiş ham verilere projenin ana dizinindeki `germany_trade_data.csv` dosyasından ulaşabilirsiniz.
